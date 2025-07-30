@@ -1,3 +1,6 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikalmalik/Colab-and-JupyterNotebook
+/blob/main/Monitoring_Indeks_Klorofil_(NDCI)_menggunakan_Citra_Sentinel_2A.ipynb)
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
