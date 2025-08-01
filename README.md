@@ -7,5 +7,5 @@
 **``Copyright (c) Abd Malik A Madinu``**
 <br /> MIT License
 
-# **Colab and Jupyte rNotebook**
+# **Colab and Jupyter Notebook**
 Remote Sensing with Cloud Geospatial Tools: How Well Do Colab and Jupyter Perform?
